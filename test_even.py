@@ -5,7 +5,9 @@ def test_is_even():
 
 """
 1.identify the location of jenkins.war file
-2.launch : java -jar Jenkins.war 
+2.launch : java -jar Jenkins.war
+
+1.Downloading and unzip  ngrok 
 """
 
 # import sys
